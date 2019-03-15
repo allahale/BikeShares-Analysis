@@ -1,0 +1,14 @@
+
+daytype,rush,days,trips,trips_per_day,subscriber_type
+weekday,evening,780,16756,21.48205128205128,Customer
+weekday,morning,782,10278,13.143222506393862,Customer
+weekday,,784,54623,69.67219387755102,Customer
+weekday,,785,299104,381.02420382165604,Subscriber
+weekday,morning,785,274885,350.171974522293,Subscriber
+weekday,evening,785,216348,275.60254777070065,Subscriber
+weekend,evening,309,8958,28.990291262135923,Customer
+weekend,morning,309,4172,13.501618122977346,Customer
+weekend,,314,42022,133.828025477707,Customer
+weekend,evening,314,9880,31.46496815286624,Subscriber
+weekend,morning,314,6778,21.585987261146496,Subscriber
+weekend,,314,39844,126.89171974522293,Subscriber

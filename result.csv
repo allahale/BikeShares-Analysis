@@ -1,0 +1,5 @@
+BigQuery error in query operation: Error processing job
+'apt-sky-204302:bqjob_r7f6ccf8dbe2305f6_00000163be970141_1': Access Denied:
+Table ambient-cubist-185918:bike_trips_data.results_20171228_104735: The user
+alla.hale@berkeley.edu does not have permission to query table
+ambient-cubist-185918:bike_trips_data.results_20171228_104735.

@@ -1,4 +1,6 @@
-# BikeShares-Analysis
+# Bike Shares- Analysis
+
+Authors: Alla Hale
 
 This was a project for the course W205- Fundamentals of Data Engineering at UC Berkeley. It was completed using python, SQL, and Google BigQuery. The python notebook contains the full analysis.
 
